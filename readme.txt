@@ -4,4 +4,4 @@ git has a mutable index called stage.
 git has a interesting feature.
 the feature is that git has a stage.
 bingo!
-git tracks changes.
+git tracks changes!
