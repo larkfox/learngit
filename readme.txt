@@ -5,3 +5,4 @@ git has a interesting feature.
 the feature is that git has a stage.
 bingo!
 git tracks changes!
+git is very interesting and useful!
